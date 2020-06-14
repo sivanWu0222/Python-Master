@@ -5,4 +5,4 @@
 Old boy python 22...
 
 
-- [dau28](./day28/)
+- [day28](./day28/)
